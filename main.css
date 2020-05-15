@@ -1,0 +1,17 @@
+.container{
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.card{
+    margin-top: 40px;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
